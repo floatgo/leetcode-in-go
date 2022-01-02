@@ -9,6 +9,7 @@ A collection of solutions of leetcode problems solved in go! The problems are ca
 | Reverse String                 | [#344](https://leetcode.com/problems/reverse-string/)          | [link](https://github.com/floatgo/leetcode-in-go/tree/main/344_reverse_string)           |
 | Delete Node in a Linked List   | [#237](https://leetcode.com/problems/delete-node-in-a-linked-list/)          | [link](https://github.com/floatgo/leetcode-in-go/tree/main/237_delete_node_linkedlist)           |
 | Maximum Depth of a Binary Tree | [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          | [link](https://github.com/floatgo/leetcode-in-go/tree/main/104_max_depth_tree)           |
+| Binary Tree Inorder Traversal | [#94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/94_inorder_traversal) | 
 
 ## Footnote
 Fixes and Suggestions are welcome! 

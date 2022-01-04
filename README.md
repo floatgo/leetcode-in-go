@@ -15,6 +15,7 @@ A collection of solutions of leetcode problems solved in go, with approaches exp
 | 7. | Fizz Buzz | [#412](https://leetcode.com/problems/fizz-buzz) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/412_fizzbuzz) |
 | 8. | Valid Anagram | [#242](https://leetcode.com/problems/valid-anagram/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/242_valid_anagram) |
 | 9. | Pascal's Triangle | [#118](https://leetcode.com/problems/pascals-triangle/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/118_pascal_triangle) | 
+| 10. | Contains Duplicate | [#217](https://leetcode.com/problems/contains-duplicate/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/217_contains_duplicate) |
 
 ## Footnote
 Fixes and Suggestions are welcome! 

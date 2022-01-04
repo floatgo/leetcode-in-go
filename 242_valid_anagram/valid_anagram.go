@@ -27,7 +27,7 @@ func isAnagram(s string, t string) bool {
         if _, ok := m_s[s[i]]; ok {
             m_s[s[i]] += 1
         } else {
-            m_s[s[i]] = 0
+            m_s[s[i]] = 1
         }
     }
     
@@ -35,7 +35,7 @@ func isAnagram(s string, t string) bool {
         if _, ok := m_t[t[i]]; ok {
             m_t[t[i]] += 1
         } else {
-            m_t[t[i]] = 0
+            m_t[t[i]] = 1
         }
     }
     

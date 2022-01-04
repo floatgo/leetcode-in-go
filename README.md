@@ -11,6 +11,7 @@ A collection of solutions of leetcode problems solved in go! The problems are ca
 | Maximum Depth of a Binary Tree | [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          | [link](https://github.com/floatgo/leetcode-in-go/tree/main/104_max_depth_tree)           |
 | Binary Tree Inorder Traversal | [#94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/94_inorder_traversal) | 
 | Reverse Linked List | [#206](https://leetcode.com/problems/reverse-linked-list/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/206_reverse_linkedlist) |
+| Single Number | [#136](https://leetcode.com/problems/single-number/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/136_single_number) |
 
 ## Footnote
 Fixes and Suggestions are welcome! 

@@ -12,6 +12,7 @@ A collection of solutions of leetcode problems solved in go! The problems are ca
 | Binary Tree Inorder Traversal | [#94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/94_inorder_traversal) | 
 | Reverse Linked List | [#206](https://leetcode.com/problems/reverse-linked-list/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/206_reverse_linkedlist) |
 | Single Number | [#136](https://leetcode.com/problems/single-number/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/136_single_number) |
+| Fizz Buzz | [#412](https://leetcode.com/problems/fizz-buzz) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/412_fizzbuzz)
 
 ## Footnote
 Fixes and Suggestions are welcome! 

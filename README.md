@@ -16,6 +16,7 @@ A collection of solutions of leetcode problems solved in go, with approaches exp
 | 8. | Valid Anagram | [#242](https://leetcode.com/problems/valid-anagram/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/242_valid_anagram) |
 | 9. | Pascal's Triangle | [#118](https://leetcode.com/problems/pascals-triangle/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/118_pascal_triangle) | 
 | 10. | Contains Duplicate | [#217](https://leetcode.com/problems/contains-duplicate/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/217_contains_duplicate) |
+| 11. | Fibonacci Number | [#509](https://leetcode.com/problems/fibonacci-number/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/509_fibonacci) |
 
 ## Footnote
 Fixes and Suggestions are welcome! 

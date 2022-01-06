@@ -18,6 +18,7 @@ A collection of solutions of leetcode problems solved in go, with approaches exp
 | 10. | Contains Duplicate | [#217](https://leetcode.com/problems/contains-duplicate/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/217_contains_duplicate) |
 | 11. | Fibonacci Number | [#509](https://leetcode.com/problems/fibonacci-number/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/509_fibonacci) |
 | 12. | Nth Tribonacci Number | [#1137](https://leetcode.com/problems/n-th-tribonacci-number/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/1137_Tribonacci) |
+| 13. | Climbing Stairs | [#70](https://leetcode.com/problems/climbing-stairs/) | [link](https://github.com/floatgo/leetcode-in-go/tree/main/70_climbing_stairs) |
 
 ## Footnote
 Fixes and Suggestions are welcome! 
